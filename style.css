@@ -1,0 +1,66 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #292222;
+  
+}
+
+
+#q {
+  background-color: #ffffff;
+  border-radius: 10%;
+  height: 250px;
+  width: 200px;
+  border-style: none;
+  background-image: 
+  url('gametiles_lol.onevone.jpg');
+  background-size:cover;
+  padding: 20px;
+}
+#w {
+  background-color: #ffffff;
+  border-radius: 10%;
+  height: 250px;
+  width: 200px;
+  border-style: none;
+  background-image: url('blu-removebg-preview.png');
+  background-size:110%;
+  text-size-adjust: bottem;
+  position: absolute;
+  top: 90px;
+  left: 350px;
+  
+}
+
+
+
+#e {
+  background-color: black;
+  border-radius: 10%;
+  height: 250px;
+  width: 200px;
+  border-style: none;
+  position: absolute;
+  right: 450px;
+  top: 90px;
+  background-image: url('monkeymart.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+#r {
+  background-color: #ffffff;
+  border-radius: 10%;
+  height: 250px;
+  width: 200px;
+  border-style: none;
+  position: absolute;
+  right: 150px;
+  top: 90px;
+  background-image: url('snow-rider-3d.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
